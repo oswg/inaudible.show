@@ -1,0 +1,54 @@
+<aside class="sidebar" id="sidebar">
+  <section class="sidebar-widget center-widget">
+    <img src="/assets/smce-logo.svg" alt="SocialMemoryComplex.Earth logo" class="sidebar-logo">
+    <p></p>Brought to you by <a class="smce-link" href=" https://socialmemorycomplex.earth">socialmemorycomplex.earth</a>, a project of <a
+      class="oswg-link" href="https://otherselvesworking.group">the Other Selves Working Group</a></p>
+  </section>
+  <section class="sidebar-widget>
+    <h3 class="widget-title">Links</h3>
+    <div class="textwidget">
+      <div id="podcast-subscribe-button-232" class="secondline-psb-radius-style secondline-psb-alignment-none">
+
+
+        <div class="secondline-psb-subscribe-inline"><span class="secondline-psb-subscribe-custom"><a
+              onmouseover="this.style.color=`#000000`; this.style.backgroundColor=`#dd9933`"
+              onmouseout="this.style.color=`#000000`; this.style.backgroundColor=`#ffffff`"
+              style="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);" class="button podcast-subscribe-button"
+              href="https://inaudible.captivate.fm/listen" target="_blank"><img decoding="async"
+                class="secondline-psb-subscribe-img"
+                src="https://inaudible.show/wp-content/plugins/podcast-subscribe-buttons/assets/img/icons/custom.png"
+                alt="Subscribe to inaudible">Subscribe to inaudible</a></span></div>
+
+      </div>
+      <p><a href="https://www.youtube.com/playlist?list=PLWoxrsPzlijnkrq_voy7xvDYlgN3ykhfh"><em>(inaudible)</em> on
+          YouTube</a></p>
+      <p><a href="https://living-love-light.captivate.fm/">Living Love and Light podcast</a></p>
+      <p><a href="https://llresearch.org/transcripts/">L/L Research Transcript Archive</a></p>
+      <p><a href="https://har.center">High Altitude Receiving Center</a></p>
+      <p><a href="https://lawofone.info">lawofone.info</a></p>
+    </div>
+  </section>
+  {% assign category_count = site.categories | size %}
+  {% if category_count > 0 %}
+  <section class="sidebar-widget">
+    <h3 class="sidebar-title">Categories</h3>
+    <ul class="sidebar-list">
+      {% assign sorted_categories = site.categories | sort %}
+      {% for category in sorted_categories %}
+      {% assign cat_name = category[0] %}
+      {% assign cat_slug = cat_name | slugify %}
+      {% assign cat_posts = category[1] | size %}
+      <li><a href="{{ '/category/' | append: cat_slug | append: '/' | relative_url }}">{{ cat_name | replace: '-', ' '
+          }}</a> <span class="count">({{ cat_posts }})</span></li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
+  <section class="sidebar-widget">
+    <h3 class="sidebar-title">Subscribe</h3>
+    <p class="sidebar-text">
+      <a href="{{ '/feed.xml' | relative_url }}">RSS Feed</a>
+    </p>
+  </section>
+</aside>

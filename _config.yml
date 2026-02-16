@@ -1,0 +1,40 @@
+# inaudible.show – Jekyll theme
+# Clean, contemplative podcast aesthetic
+
+title: inaudible
+tagline: Listening for love in the messages of the Confederation
+email: jeremy@otherselvesworking.group
+description: >-
+  A podcast exploring the Law of One philosophy and the channeled messages
+  of the Confederation of Planets in Service to the Infinite Creator.
+baseurl: ""
+url: "https://inaudible.show"
+excerpt_separator: "<!--more-->"
+
+# Header images (optional)
+# Single image: use 1920×300 px for desktop. Mobile uses mobile_header_image.
+# header_image: "/assets/header.png"
+# mobile_header_image: "/assets/mobile-logo.png"
+# Multiple desktop sizes (optional): add srcset for retina/bandwidth optimization:
+# header_image_srcset: "/assets/header-960.png 960w, /assets/header-1920.png 1920w, /assets/header-3840.png 3840w"
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-archives
+
+jekyll-archives:
+  enabled:
+    - categories
+  layouts:
+    category: category-archive
+  permalinks:
+    category: "/category/:name/"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .git/
+  - .gitignore

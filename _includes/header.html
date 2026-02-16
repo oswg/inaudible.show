@@ -1,0 +1,27 @@
+<header class="site-header">
+  <button type="button" class="menu-toggle" aria-label="Open menu" aria-expanded="false" aria-controls="sidebar">
+    <span class="menu-toggle-bar"></span>
+    <span class="menu-toggle-bar"></span>
+    <span class="menu-toggle-bar"></span>
+  </button>
+  <a class="site-header-image" href="{{ '/' | relative_url }}">
+    {% assign header_src = site.header_image | default: '/assets/inaudible_hdr_2026.png' %}
+    {% assign mobile_src = site.mobile_header_image | default: '/assets/mobile-logo.png' %}
+    {% unless header_src contains '://' %}{% assign header_src = header_src | relative_url %}{% endunless %}
+    {% unless mobile_src contains '://' %}{% assign mobile_src = mobile_src | relative_url %}{% endunless %}
+    {% comment %}
+      Responsive header images:
+      - Mobile (≤768px): use mobile_header_image (e.g. 768×200 for 1x)
+      - Desktop: use header_image. If you provide multiple sizes via header_image_srcset
+        in _config.yml (comma-separated "url w" pairs like "/assets/header-960.png 960w"),
+        those will be used for optimal loading. Otherwise a single 1920×300 image works.
+    {% endcomment %}
+    <picture>
+      <source media="(max-width: 768px)" srcset="{{ mobile_src }}">
+      {% if site.header_image_srcset %}
+      <source media="(min-width: 769px)" srcset="{{ site.header_image_srcset }}" sizes="100vw">
+      {% endif %}
+      <img src="{{ header_src }}" alt="{{ site.title }} – {{ site.tagline }}" class="header-img">
+    </picture>
+  </a>
+</header>

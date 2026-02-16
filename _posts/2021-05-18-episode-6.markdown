@@ -1,0 +1,10 @@
+---
+layout: "post"
+title: "Episode 6: Good, Evil, and Polarity"
+date: "2021-05-18 17:24:31 +0000"
+permalink: "/episode-6/"
+categories: ["choice", "episode-summary", "polarity"]
+---
+
+Happy Tuesday, other selves! On this episode, Ryan and I discuss the Confederation's view of good and evil. How do these cosmic concepts relate to the polarity between service to others and service to self? We mostly spend the whole episode going on tangents related to morality, ethics, and the role the individual plays in all of this. Thanks for listening and let us know how we're doing!
+<div style="width: 100%; height: 170px; margin-bottom: 20px; border-radius: 10px; overflow:hidden;"><iframe style="width: 100%; height: 170px;" frameborder="no" scrolling="no" seamless="" src="https://player.captivate.fm/episode/bc813fc6-1dc5-4004-88aa-9021b3b2724f"></iframe></div>

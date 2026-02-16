@@ -1,0 +1,12 @@
+---
+layout: "post"
+title: "Episode 18: Religion and Dogma"
+date: "2021-08-19 12:11:22 +0000"
+permalink: "/episode-18/"
+categories: ["episode-summary", "meta", "religion"]
+---
+
+Happy Thursday, other selves! This week's episode focuses on <a href="https://llresearch.org/transcripts/issues/2007/2007_0218.aspx">a Q'uo transcript</a> dealing with religion and a host of associated topics such as authority, the nature of truth, the intellectual and emotional approaches to the divine, and the magic of inspiration. We hope you enjoy this digestion of another Q'uo session, and thanks for giving us your feedback!
+
+Also, be advised that our schedule may taper back a bit as life events intervene. We intend to keep episodes coming, but we may need some flexibility in timing. It might even be that we bring in some guests to keep things rolling even if Ryan or I cannot make an appearance. Please stick with us through these tumultuous times!
+<div style="width: 100%; height: 170px; margin-bottom: 20px; border-radius: 10px; overflow:hidden;"><iframe style="width: 100%; height: 170px;" frameborder="no" scrolling="no" seamless="" src="https://player.captivate.fm/episode/916e0855-009b-4fe5-ba85-f0ced569aa7a"></iframe></div>

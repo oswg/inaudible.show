@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<article class="page">
+  <header class="page-header">
+    <h1 class="page-title">Category: {{ page.title | replace: '-', ' ' | capitalize }}</h1>
+  </header>
+
+  <div class="page-content">
+    <ul class="category-posts">
+      {% for post in page.posts %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        <time class="post-date">{{ post.date | date: "%B %d, %Y" }}</time>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</article>

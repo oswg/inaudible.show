@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<article class="home">
+  <div class="episodes">
+    {% for post in site.posts %}
+    <article class="episode-summary">
+      <h2 class="episode-title">
+        <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+      </h2>
+      <div class="episode-excerpt">
+        {{ post.excerpt | default: post.content | strip_html }}
+      </div>
+      <a href="{{ post.url | relative_url }}" class="episode-link">Read more →</a>
+    </article>
+    {% endfor %}
+  </div>
+</article>

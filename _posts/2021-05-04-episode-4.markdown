@@ -1,0 +1,10 @@
+---
+layout: "post"
+title: "Episode 4: Love and Catalyst"
+date: "2021-05-04 00:00:00 +0000"
+permalink: "/episode-4/"
+categories: ["catalyst", "episode-summary", "love"]
+---
+
+This week Ryan and I go all over the place, talking about the nature of catalyst and how it exposes our biases, the nature of love in all of our experiences, and the journey from the intellectual head to the understanding heart. What does it mean to love, to serve, to let go? Join us as we open up a bit about our personal lives as we muse about the vulnerable, reflective, receptive mode that the Confederation suggests. As always, we welcome your feedback, both critical and positive. Thanks for listening!
+<div style="width: 100%; height: 170px; margin-bottom: 20px; border-radius: 10px; overflow:hidden;"><iframe style="width: 100%; height: 170px;" frameborder="no" scrolling="no" seamless="" src="https://player.captivate.fm/episode/1501b52e-ec3f-404d-bc1c-1ae369ee37ad"></iframe></div>
