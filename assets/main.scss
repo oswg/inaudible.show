@@ -48,14 +48,13 @@ h1, h2, h3, h4, h5, h6 {
   font-style: italic;
 }
 
-// Base link style (matches category links)
+// Base link style
 a {
-  color: $color-link;
-  text-decoration: none;
+  color: #000;
+  text-decoration: underline;
 
   &:hover {
-    color: $color-link-hover;
-    text-decoration: underline;
+    color: #000;
   }
 }
 
@@ -117,6 +116,7 @@ a {
 .site-header-image {
   display: block;
   line-height: 0;
+  text-decoration: none;
 
   &:hover {
     text-decoration: none;
