@@ -10,10 +10,9 @@ categories: ["attitude", "catalyst", "choice", "discipline-of-the-personality", 
 
 <p>Happy Thanksgiving!</p>
 
+<!-- more -->
+
 <div style="width: 100%; height: 200px; margin-bottom: 20px; border-radius: 6px; overflow: hidden;"><iframe style="width: 100%; height: 200px;" frameborder="no" scrolling="no" allow="clipboard-write" seamless src="https://player.captivate.fm/episode/910b2809-a475-422c-8946-9797dfd4d647"></iframe></div>
-
-<!--more-->
-
 <h2 class="wp-block-heading">Show Notes</h2>
 
 <ul><li>Q’uo on conflict and peace (<a href="https://www.llresearch.org/channeling/2001/1118" rel="noreferrer noopener" target="_blank">November 18, 2001</a>)</li>

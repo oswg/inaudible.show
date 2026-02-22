@@ -6,12 +6,11 @@ permalink: "/bonus-organizing-seekers/"
 categories: ["uncategorized"]
 ---
 
-<p>In this bonus episode, Jeremy shares a presentation he gave at the May 2023 Other Selves Working Group general membership meeting on a model for how seekers can be organized to provide community, resources, and support in a redundant, reliable, in-depth manner.</p>
+<p>In this bonus episode, Jeremy shares a presentation he gave at the May 2023 Other Selves Working Group general membership meeting on a model for how seekers can be organized to provide community, resources, and support in a redundant, reliable, in-depth manner.</p><p>
 
-<p><div style="width: 100%; height: 200px; margin-bottom: 20px; border-radius: 6px; overflow: hidden;"><iframe style="width: 100%; height: 200px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/c24e107b-5058-4dc0-8de4-d6339f99ad8f"></iframe></div></p>
+<!-- more -->
 
-<!--more-->
-
+<div style="width: 100%; height: 200px; margin-bottom: 20px; border-radius: 6px; overflow: hidden;"><iframe style="width: 100%; height: 200px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/c24e107b-5058-4dc0-8de4-d6339f99ad8f"></iframe></div></p>
 <h2 class="wp-block-heading">Show Notes</h2>
 
 <ul><li><a href="https://my.captivate.fm/councilforsocialmemory.org" rel="noreferrer noopener" target="_blank">The Council for Social Memory</a></li>

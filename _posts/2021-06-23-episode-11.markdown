@@ -7,4 +7,7 @@ categories: ["uncategorized"]
 ---
 
 Happy Wednesday, other selves! This episode Ryan and I continue reading <a href="https://llresearch.org/transcripts/issues/2000/2000_0507.aspx">the Q'uo transcript</a> discussing emotions and their purification. Thanks for listening, and <a href="/contact-us">let us know what you think</a>!
+
+<!-- more -->
+
 <div style="width: 100%; height: 170px; margin-bottom: 20px; border-radius: 10px; overflow:hidden;"><iframe style="width: 100%; height: 170px;" frameborder="no" scrolling="no" seamless="" src="https://player.captivate.fm/episode/14cf6aba-3d6e-4129-b371-ce1793070f13"></iframe></div>

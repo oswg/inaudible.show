@@ -8,9 +8,9 @@ categories: ["catalyst", "discipline-of-the-personality", "dreams", "emotion", "
 
 <p>When asked about the disciplines of the personality, those of Ra responded with three directives: “One, know yourself. Two, accept yourself. Three, become the Creator.” What does it mean to know yourself? Which self? How much knowledge? What is this knowledge, its nature? Jamie and Jeremy discuss these questions in light of emotions, dreams, energy system blockages, desires, and the neverending search for the center of ourselves and other selves. </p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U7xFcKQ6Pv8?si=dwQu0vVRKJw4XY4n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- more -->
 
-<!--more-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U7xFcKQ6Pv8?si=dwQu0vVRKJw4XY4n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <h2 class="wp-block-heading">Show Notes</h2>
 
 <ul class="wp-block-list"><li>Episode 17: The Discipline of the Personality (<a href="episode-17/">inaudible.show</a>)</li>

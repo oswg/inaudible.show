@@ -7,4 +7,7 @@ categories: ["episode-summary", "service"]
 ---
 
 Happy late Tuesday, other selves! Ryan and I return to our old topic of <em>service</em>, its confusing and simultaneously very simple nature. We run into many shadows within when we seek to serve others as they wish, and on this episode we're going to speak about a few of them. How can we know what others desire? What if we do not wish to serve? What is going on behind the scenes as we make these concrete decisions? How can we adopt a perspective that freely radiates the self without holding back out of fear? As always, <a href="/contact-us">chime in with your thoughts</a>.
+
+<!-- more -->
+
 <div style="width: 100%; height: 170px; margin-bottom: 20px; border-radius: 10px; overflow:hidden;"><iframe style="width: 100%; height: 170px;" frameborder="no" scrolling="no" seamless="" src="https://player.captivate.fm/episode/1c96dfe5-6096-4301-ac31-9dcac2ab3321"></iframe></div>

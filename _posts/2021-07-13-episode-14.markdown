@@ -7,4 +7,7 @@ categories: ["episode-summary", "service"]
 ---
 
 Happy Tuesday, other selves! This episode revolves around a concept that the Confederation often harps on: transience. By that, they mean to indicate those concerns which occupy our minds without holding any importance to our spiritual evolution. We look at how to apply the long term, cosmic time scale of spiritual evolution to our thinking and service in this oh! so short life. As always, <a href="/contact-us">let us know</a> if we're hitting the mark.
+
+<!-- more -->
+
 <div style="width: 100%; height: 170px; margin-bottom: 20px; border-radius: 10px; overflow:hidden;"><iframe style="width: 100%; height: 170px;" frameborder="no" scrolling="no" seamless="" src="https://player.captivate.fm/episode/181d959b-6f9a-44e6-b1d6-a1a11d66faa2"></iframe></div>

@@ -4,7 +4,7 @@ layout: default
 
 <article class="home">
   <div class="episodes">
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
     <article class="episode-summary">
       <h2 class="episode-title">
         <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
@@ -16,4 +16,16 @@ layout: default
     </article>
     {% endfor %}
   </div>
+
+  {% if paginator.total_pages > 1 %}
+  <nav class="pagination" aria-label="Episode pagination">
+    {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}" class="pagination-prev">← Newer</a>
+    {% endif %}
+    <span class="pagination-info">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}" class="pagination-next">Older →</a>
+    {% endif %}
+  </nav>
+  {% endif %}
 </article>

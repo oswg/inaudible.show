@@ -8,11 +8,12 @@ categories: ["archetypal-mind", "catalyst", "choice", "energy-centers", "episode
 
 <p>Steve Tyman joins Jeremy for the first of a series of conversations on the twenty-two archetypes that provide a tool for working with the archetypal mind. In this episode they focus on the first five stations of the mind and body cycles: matrix, potentiator, catalyst, experience, and significator. Starting with a re-introduction to the very idea of what an archetype is, they discuss some aspects of these ten archetypes as well as what is meant by "mind" and "body" specifically, with some digressions into the nature of time/space as contrasted to space/time. The other archetypes—the spirit cycle as well as the transformation and great way stations of mind and body—will be discussed in future episodes.</p>
 
+<!-- more -->
+
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 https://youtu.be/JNvsbuAxCiE
 </div></figure>
 <div style="width: 100%; height: 200px; margin-bottom: 20px; border-radius: 6px; overflow: hidden;"><iframe style="width: 100%; height: 200px;" frameborder="no" scrolling="no" allow="clipboard-write" seamless src="https://player.captivate.fm/episode/7d9945a5-a565-42eb-ba38-f7bea8bef191"></iframe></div>
-<!--more-->
 <h2 class="wp-block-heading">Show Notes</h2>
 
 <ul><li>Episode 16: An Introduction to the Archetypal Mind (<a href="episode-16/">inaudible podcast</a>)</li>

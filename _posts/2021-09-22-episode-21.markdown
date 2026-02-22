@@ -7,4 +7,7 @@ categories: ["episode-summary", "meta", "religion"]
 ---
 
 Happy Wednesday, other selves! On this episode Jeremy explores an esoteric interpretation of the Lord's Prayer guided by <a href="https://llresearch.org/transcripts/issues/1980/1980_0727.aspx">a Hatonn session</a>. He also provides an update on Ryan and announces the launch of the <a href="https://harc.otherselvesworking.group">High Altitude Receiving Center</a>, a new outlet for Confederation channeling. As always, <a href="/contact">your feedback is appreciated</a>.
+
+<!-- more -->
+
 <div style="width: 100%; height: 170px; margin-bottom: 20px; border-radius: 10px; overflow:hidden;"><iframe style="width: 100%; height: 170px;" frameborder="no" scrolling="no" seamless="" src="https://player.captivate.fm/episode/dd3221ce-4f47-41f0-8fc5-751409279bd2"></iframe></div>

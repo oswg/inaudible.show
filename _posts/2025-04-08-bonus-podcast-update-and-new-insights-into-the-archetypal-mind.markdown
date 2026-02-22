@@ -6,6 +6,8 @@ permalink: "/bonus-podcast-update-and-new-insights-into-the-archetypal-mind/"
 categories: ["archetypal-mind", "episode-summary", "meta"]
 ---
 
+<!-- more -->
+
 <div style="width: 100%; height: 200px; margin-bottom: 20px; border-radius: 6px; overflow: hidden;"><iframe style="width: 100%; height: 200px;" frameborder="no" scrolling="no" allow="clipboard-write" seamless src="https://player.captivate.fm/episode/c0738d22-19e1-4b55-9a10-a967425b0ec7/"></iframe></div>
 
 <p>Jeremy gives a short update on the status of the podcast, followed by a recording of his presentation, New Insights Into the Archetypal Mind, recorded at the Other Selves Working Group's January 2025 Law of One Concepts Study Circle meeting.</p>

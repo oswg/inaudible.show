@@ -8,4 +8,8 @@ categories: ["meta"]
 
 Ryan is just getting back from vacation, and I've got a lot going on this week. We're going to take this week off. Expect the next episode a week from tomorrow!
 
+
+
+<!-- more -->
+
 In the meantime, feel free to <a href="/contact-us">reach out</a> if you have any feedback, ideas, questions, or comments. Thanks for your support!

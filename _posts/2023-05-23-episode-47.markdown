@@ -12,10 +12,9 @@ categories: ["catalyst", "choice", "energy-centers", "episode-summary", "faith",
 
 <p>Many heartfelt thanks to listener Reinhard for suggesting the topic! You can always ask us to address ourselves to a subject -- or otherwise give us feedback -- at our contact form: <a href="contact-us" rel="noreferrer noopener" target="_blank">contact-us</a></p>
 
+<!-- more -->
+
 <div style="width: 100%; height: 200px; margin-bottom: 20px; border-radius: 6px; overflow: hidden;"><iframe style="width: 100%; height: 200px;" frameborder="no" scrolling="no" seamless="" src="https://player.captivate.fm/episode/56a267c6-dffe-4d7e-8a4c-2c231c2784ef"></iframe></div>
-
-<!--more-->
-
 <h2 class="wp-block-heading">Show Notes</h2>
 
 <ul><li>Ra on the sinkhole of indifference (<a href="https://www.lawofone.info/s/17#33" rel="noreferrer noopener" target="_blank">Session 17, Question 33</a>)</li>

@@ -8,9 +8,9 @@ categories: ["attitude", "catalyst", "depression", "discipline-of-the-personalit
 
 <p>Returning from their hiatus, Nithin and Jeremy look into what Confederation entities might have to say about the subject of depression. We look at depression in several senses: as a starving of love from its source, a rejection of the self and the circumstances in which it finds itself, an opportunity to empty the self in order to make room for the new, and more. Applying their experience with depressive states at various moments in their lives, Jeremy and Nithin delve into the nature of this condition as one milestone in an overall process of transformation. We are not asked to understand so much as to have faith in the goodness of this transformation and, in so doing, take responsibility for our small role as instruments of our Creator.</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JrP0vMy3X74?si=7UMmFKuW0-KsVSry" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- more -->
 
-<!--more-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JrP0vMy3X74?si=7UMmFKuW0-KsVSry" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <h2 class="wp-block-heading">Show Notes</h2>
 
 <ul class="wp-block-list"><li>Q'uo on catalyst gone awry (<a href="https://www.llresearch.org/channeling/2004/0502#!0" target="_blank" rel="noreferrer noopener">May 2, 2004</a>)</li>

@@ -10,4 +10,6 @@ categories: ["episode-summary", "meta"]
 
 <p>We released our first episode this week, and the current plan is to release weekly. If you have any feedback, questions, suggested topics, or anything else you'd like to share, feel free to contact us.</p>
 
+<!-- more -->
+
 <div style="width: 100%; height: 170px; margin-bottom: 20px; border-radius: 10px; overflow:hidden;"><iframe style="width: 100%; height: 170px;" frameborder="no" scrolling="no" seamless="" src="https://player.captivate.fm/episode/20be7c52-b013-4996-856b-4988e1658e07"></iframe></div>

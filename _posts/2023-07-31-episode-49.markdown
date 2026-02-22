@@ -10,10 +10,9 @@ categories: ["catalyst", "curiosity", "discernment", "discipline-of-the-personal
 
 <p>In the imperfect curation of our total selves into a socially and personally acceptable personality, we work to accept as well as release many aspects we accrete to this self. In the present moment, we understand better our true nature as infinite, free, and secure without relying on the artifice of ego or the reductive power of intellect. We then can better appreciate the distortions of evolution in all their variety, providing one sensory organ for the Creator's infinite exploration of itself through our unique, individual self.</p>
 
+<!-- more -->
+
 <div style="width: 100%; height: 200px; margin-bottom: 20px; border-radius: 6px; overflow: hidden;"><iframe style="width: 100%; height: 200px;" src="https://player.captivate.fm/episode/125cd3c6-ba80-46a9-8fdd-b29160999186" frameborder="no" scrolling="no" seamless=""></iframe></div>
-
-<!--more-->
-
 <h2 class="wp-block-heading">Show Notes</h2>
 
 <ul><li>Q'uo on our true nature (<a href="https://www.llresearch.org/channeling/1999/0523" rel="noreferrer noopener" target="_blank">May 23, 1999</a>)</li>

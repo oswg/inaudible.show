@@ -8,9 +8,9 @@ categories: ["distortions", "heart", "intelligent-infinity", "interpretation", "
 
 <p>After a long break, Nithin and Jeremy return to discuss a 1974 Hatonn session that presages the Ra contact revelations in so many ways. In the context of the long lineage of Confederation channeling, they discuss what they mean by love and light, how they interact and relate to the first distortion, free will. This leads them to address thoughts on the nature of manifestation and the thread connecting it back to the Creator through a variety of successive distortions, a task that doesn't quite yield to the intellect. Evolution then tracks through time the process of this thread being traced back to unity, as we learn how to truly become self-conscious enough to become a participant in the Creator's evolutionary project.</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p_ALXlbCsD4?si=_cjcX0gQh6vSO2Zi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- more -->
 
-<!--more-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p_ALXlbCsD4?si=_cjcX0gQh6vSO2Zi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <h2 class="wp-block-heading">Show Notes</h2>
 
 <ul class="wp-block-list"><li>Hatonn on love and light (<a href="https://www.llresearch.org/channeling/1974/0211_01" target="_blank" rel="noreferrer noopener">February 11, 1974</a>)</li>

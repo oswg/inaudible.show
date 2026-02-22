@@ -7,9 +7,10 @@ email: jeremy@otherselvesworking.group
 description: >-
   A podcast exploring the Law of One philosophy and the channeled messages
   of the Confederation of Planets in Service to the Infinite Creator.
-baseurl: ""
+baseurl: "/"
 url: "https://inaudible.show"
-excerpt_separator: "<!--more-->"
+excerpt_separator: "<!-- more -->"
+paginate: 10
 
 # Header images (optional)
 # Single image: use 1920×300 px for desktop. Mobile uses mobile_header_image.
@@ -22,6 +23,7 @@ excerpt_separator: "<!--more-->"
 plugins:
   - jekyll-feed
   - jekyll-archives
+  - jekyll-paginate
 
 jekyll-archives:
   enabled:

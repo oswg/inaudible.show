@@ -12,10 +12,9 @@ categories: ["catalyst", "criticism", "cults", "episode-summary", "media-topics"
 
 <p>Join us on a very special episode as we dive into these issues, and as always, let us know your thoughts. Also, please consider supporting the Farsi translation project. On the next episode we will return to the Q'uo session from episode 32 to finally tackle the concept of the magical personality.</p>
 
+<!-- more -->
+
 <div style="width: 100%; height: 200px; margin-bottom: 20px; border-radius: 6px; overflow: hidden;"><iframe style="width: 100%; height: 200px;" frameborder="no" scrolling="no" seamless="" src="https://player.captivate.fm/episode/48aa6791-bbd1-4390-b89a-95c0f5fd9df9"></iframe></div>
-
-<!--more-->
-
 <h3>Show Notes</h3>
 
 <ul><li>Patreon to support the Farsi translation of the Ra contact (<a href="https://www.patreon.com/LawofOne_Farsi">https://www.patreon.com/LawofOne_Farsi</a>)</li>

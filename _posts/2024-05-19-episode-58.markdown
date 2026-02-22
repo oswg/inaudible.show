@@ -8,9 +8,9 @@ categories: ["archetypal-mind", "catalyst", "choice", "discipline-of-the-persona
 
 <p>Jeremy is once more joined by Steve Tyman to continue their discussion of the mind and body cycles of the tarot images and their relation to the archetypal mind. They begin with a recapitulation of the idea behind concept complexes with an emphasis on the veil's effect on the operation of the significator. This leads to discussion of the liminal station of transformation and the summarizing/integrating station of the great way, where one can see the reflection of the mind in the body and the delicate resonances of the logoic plan in the archetypal mind. Steve and Jeremy tie back the polarity introduced by the veil between the conscious and unconscious minds which features prominently in understanding the character of transformation and the great way. This sets the stage for tackling the spirit cycle, which we shall address in a future episode in light of the relationships articulated up to this point between the seven stations and the two cycles.</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VQNW-QuHmys?si=15J-Zqq8tI0qKMBR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- more -->
 
-<!--more-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VQNW-QuHmys?si=15J-Zqq8tI0qKMBR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <h2 class="wp-block-heading">Show Notes</h2>
 
 <ul><li>A Deep Dive Into the Archetypes, Part 1 (<a href="episode-55/" target="_blank" rel="noreferrer noopener">Episode 55</a>)</li>

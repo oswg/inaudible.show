@@ -7,4 +7,7 @@ categories: ["episode-summary", "love", "service"]
 ---
 
 Happy Tuesday, other selves! In this episode, Ryan and I discuss the Confederation's concept of love (and fear), the power of perception, the nature of service, our definitions of this “illusion”, and wanderers. We kind of go all over the place, so let us know how we're doing!
+
+<!-- more -->
+
 <div style="width: 100%; height: 170px; margin-bottom: 20px; border-radius: 10px; overflow:hidden;"><iframe style="width: 100%; height: 170px;" frameborder="no" scrolling="no" seamless="" src="https://player.captivate.fm/episode/9dd40ef8-ed3b-4070-aabc-c4b8aca6c9d9"></iframe></div>

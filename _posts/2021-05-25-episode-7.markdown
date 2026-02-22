@@ -7,4 +7,7 @@ categories: ["episode-summary"]
 ---
 
 Happy Tuesday, other selves! Building on the discussion from last week, Ryan and I explore the subject of karma, different ways to think about it, and its relationship to polarity. We run a little longer than normal for some reason. Hope you enjoy, and make sure you <a href="/contact-us">share your feedback with us</a>.
+
+<!-- more -->
+
 <div style="width: 100%; height: 170px; margin-bottom: 20px; border-radius: 10px; overflow:hidden;"><iframe style="width: 100%; height: 170px;" frameborder="no" scrolling="no" seamless="" src="https://player.captivate.fm/episode/f3b7f715-4324-4072-90b3-83bb5c8dbff6"></iframe></div>

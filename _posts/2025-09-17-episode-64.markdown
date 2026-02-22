@@ -10,9 +10,9 @@ categories: ["attitude", "catalyst", "creativity", "criticism", "cults", "curios
 
 <p><em>Note: My audio is not as good as it could be, I'm out of practice setting levels. Sorry.</em></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PogiaK-W_6A?si=ns_hbvrumu3aaNOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- more -->
 
-<!--more-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PogiaK-W_6A?si=ns_hbvrumu3aaNOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <h2 class="wp-block-heading">Show Notes</h2>
 
 <ul class="wp-block-list"><li>Jade Norby's new Law of One podcast (<a href="https://www.youtube.com/watch?v=ZR2742aujHs" target="_blank" rel="noreferrer noopener">YouTube</a>)</li>
