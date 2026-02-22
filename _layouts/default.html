@@ -23,5 +23,6 @@
   </div>
   {% include footer.html %}
   <script src="{{ '/assets/sidebar-toggle.js' | relative_url }}"></script>
+  {% if site.email %}<script src="{{ '/assets/footer-contact.js' | relative_url }}"></script>{% endif %}
 </body>
 </html>

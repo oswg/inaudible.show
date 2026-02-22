@@ -2,7 +2,7 @@
   <div class="footer-content">
     <p class="footer-tagline">{{ site.tagline | default: site.description }}</p>
     {% if site.email %}
-    <p class="footer-contact">Contact: <code>jeremy at otherselvesworking period group</code></p>
+    <p class="footer-contact">Contact: <a class="footer-email-link" href="#" aria-label="Contact"><img class="footer-email" src="{{ '/assets/email.png' | relative_url }}" width="320" height="24" alt="" decoding="async"></a></p>
     {% endif %}
     <p class="footer-copy">&copy; {{ 'now' | date: '%Y' }} {{ site.title }}</p>
   </div>
