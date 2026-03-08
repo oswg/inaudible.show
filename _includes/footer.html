@@ -1,9 +1,7 @@
 <footer class="site-footer">
   <div class="footer-content">
     <p class="footer-tagline">{{ site.tagline | default: site.description }}</p>
-    {% if site.email %}
-    <p class="footer-contact">Contact: <a class="footer-email-link" href="#" aria-label="Contact"><img class="footer-email" src="{{ '/assets/email.png' | relative_url }}" width="320" height="24" alt="" decoding="async"></a></p>
-    {% endif %}
-    <p class="footer-copy">&copy; {{ 'now' | date: '%Y' }} {{ site.title }}</p>
+    {% if site.email %}{% include email_obfuscation.html %}{% endif %}
+    <p class="footer-copy">&copy; {{ 'now' | date: '%Y' }} <a href="https://socialmemorycomplex.earth">SocialMemoryComplex.Earth</a> and the <br /> <a href="https://otherselvesworking.group">Other Selves Working Group</a></p>
   </div>
 </footer>
