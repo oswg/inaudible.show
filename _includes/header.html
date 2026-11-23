@@ -5,7 +5,7 @@
     <span class="menu-toggle-bar"></span>
   </button>
   <a class="site-header-image" href="{{ '/' | relative_url }}">
-    {% assign header_src = site.header_image | default: '/assets/inaudible_hdr_2026.png' %}
+    {% assign header_src = site.header_image | default: '/assets/inaudible_site_header_2026-11-23.png' %}
     {% assign mobile_src = site.mobile_header_image | default: '/assets/mobile-logo.png' %}
     {% unless header_src contains '://' %}{% assign header_src = header_src | relative_url %}{% endunless %}
     {% unless mobile_src contains '://' %}{% assign mobile_src = mobile_src | relative_url %}{% endunless %}
