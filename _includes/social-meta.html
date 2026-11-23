@@ -1,0 +1,46 @@
+{% comment %}
+  Share preview meta (Open Graph + Twitter).
+  Image: page.image → YouTube (page.youtube_id or auto-detected) → site.default_share_image
+{% endcomment %}
+{% assign og_title = page.title | default: site.title %}
+{% assign og_description = page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 %}
+{% assign og_url = page.url | absolute_url %}
+{% assign og_type = "website" %}
+{% if page.layout == "post" %}
+  {% assign og_type = "article" %}
+{% endif %}
+
+{% assign share_image = page.image %}
+{% unless share_image %}
+  {% if page.youtube_id %}
+    {% assign share_image = "https://img.youtube.com/vi/" | append: page.youtube_id | append: "/maxresdefault.jpg" %}
+  {% endif %}
+{% endunless %}
+{% unless share_image %}
+  {% assign share_image = site.default_share_image %}
+{% endunless %}
+
+{% if share_image %}
+  {% if share_image contains '://' %}
+    {% assign share_image_abs = share_image %}
+  {% else %}
+    {% assign share_image_abs = share_image | absolute_url %}
+  {% endif %}
+{% endif %}
+
+<meta property="og:site_name" content="{{ site.title | escape }}">
+<meta property="og:title" content="{{ og_title | escape }}">
+<meta property="og:description" content="{{ og_description | escape }}">
+<meta property="og:url" content="{{ og_url }}">
+<meta property="og:type" content="{{ og_type }}">
+{% if share_image_abs %}
+<meta property="og:image" content="{{ share_image_abs }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ og_title | escape }}">
+<meta name="twitter:description" content="{{ og_description | escape }}">
+<meta name="twitter:image" content="{{ share_image_abs }}">
+{% else %}
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="{{ og_title | escape }}">
+<meta name="twitter:description" content="{{ og_description | escape }}">
+{% endif %}

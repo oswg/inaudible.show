@@ -9,6 +9,8 @@ description: >-
   of the Confederation of Planets in Service to the Infinite Creator.
 baseurl: "/"
 url: "https://inaudible.show"
+# Social share preview when a post has no image: or YouTube embed
+default_share_image: "/assets/inaudible_1200x630.png"
 excerpt_separator: "<!-- more -->"
 paginate: 10
 
