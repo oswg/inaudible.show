@@ -3,6 +3,11 @@ layout: default
 ---
 
 <article class="page">
+  {% if page.hero_image %}
+  <figure class="page-hero">
+    <img src="{{ page.hero_image | relative_url }}" alt="{{ page.hero_alt | default: page.title | escape }}" class="page-hero-img" decoding="async">
+  </figure>
+  {% endif %}
   <header class="page-header">
     <h1 class="page-title">{{ page.title | escape }}</h1>
   </header>

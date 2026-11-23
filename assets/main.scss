@@ -466,6 +466,18 @@ a {
   font-size: 0.9rem;
 }
 
+.page-hero {
+  margin: 0 0 $spacing-unit * 1.5;
+  text-align: center;
+}
+
+.page-hero-img {
+  display: inline-block;
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
 // Post (episode) page
 .post-header,
 .page-header {
